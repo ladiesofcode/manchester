@@ -2,6 +2,6 @@
 
 # Ladies of Code Manchester
 
-Ladies of Code Manchester is organised by [Laura] (https://twitter.com/lauraionescu1),[Danielle](https://twitter.com/MrsDHW)and [Ann](https://uk.linkedin.com/in/ann-ledwith-113667a9) 
+Ladies of Code Manchester is organised by [Laura] (https://twitter.com/lauraionescu1), [Danielle](https://twitter.com/MrsDHW) and [Ann](https://uk.linkedin.com/in/ann-ledwith-113667a9) 
 
 **To find out when and where our next meetup is, please take a look at [our page on meetup.com](http://www.meetup.com/Ladies-of-Code-Manchester/)**
